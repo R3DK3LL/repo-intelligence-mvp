@@ -140,4 +140,4 @@ Support & Documentation
 
 ---
 
-*This framework represents ongoing research in quantitative software engineering analysis. Results should be interpreted within appropriate methodological contexts.*
+*This framework represents active research in quantitative software engineering analysis and process optimization. Results should be interpreted within appropriate methodological contexts.*
